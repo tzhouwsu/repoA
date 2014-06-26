@@ -1,0 +1,4 @@
+repoA
+=====
+
+practice of merging
